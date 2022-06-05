@@ -49,8 +49,8 @@ iframe,
     .section__inner.award::before,
     .section__inner.production::before,
     .section__inner.class::before {font-size: 30px;}
-    .section__link:before {top: 15px; right:-60px; height: 25px; line-height:10px; font-size: 15px; font-weight:600;}
-    .section__link:hover::after {content: '>'; position: absolute; margin-left: 70px;}
+    .section__link:before {display:none;}
+    .section__link:hover::after {display:none;}
 
     .vidioBox {width:300px; height:200px;}
     .vidioBox+.vidioBox {margin-left:0}
