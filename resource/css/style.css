@@ -17,6 +17,7 @@
 .section__inner.award::before {content:"Award"; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%);  color:#6c767f; font-size: 120px;  font-family: 'Blackoak Std'; z-index: 0;}
 .section__inner.production::before {content:"Production"; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%);  color:#6c767f; font-size: 120px;  font-family: 'Blackoak Std'; z-index: 0;}
 .section__inner.class::before {content:"Class"; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%);  color:#6c767f; font-size: 120px;  font-family: 'Blackoak Std'; z-index: 0;}
+.section__inner.dance::before {content:"Dance"; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%);  color:#6c767f; font-size: 120px;  font-family: 'Blackoak Std'; z-index: 0;}
 
 .vidioBox {display: inline-block; width:700px; height:500px; margin-top:10px; margin-bottom:10px; position:relative; z-index: 1;}
 .vidioBox+.vidioBox {margin-left:20px}
